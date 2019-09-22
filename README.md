@@ -11,4 +11,4 @@ Haven't included the infura key and Metamask seed phrase in the `truffle-config.
 
 [Test transaction on Rinkeby network](https://rinkeby.etherscan.io/tx/0xefaf7c7c39f746368d7c76008077d6f1df2700b5d8606698a215e67e97d164f6)
 
-UI:
+[Screenshots of UI working with Rinkeby](screenshots)
